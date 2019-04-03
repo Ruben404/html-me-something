@@ -1,0 +1,14 @@
+
+article {
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#center {
+    text-align: center;
+}
+
+#fixed {
+    position: fixed;
+}
