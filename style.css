@@ -12,3 +12,11 @@ article {
 #fixed {
     position: fixed;
 }
+
+.bold {
+    font-weight: bold;
+}
+
+#burlywood-bg {
+    background-color: burlywood;
+}
